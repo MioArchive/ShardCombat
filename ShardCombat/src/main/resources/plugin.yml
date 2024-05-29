@@ -1,0 +1,5 @@
+name: ShardCombat
+version: '${version}'
+main: eu.javamio.shardcombat.ShardCombat
+api-version: '1.19'
+author: JavaMio

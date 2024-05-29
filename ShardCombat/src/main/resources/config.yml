@@ -1,0 +1,17 @@
+duration: 20 # seconds
+
+action-bar:
+  combat: "&7Combat: &b{timer}"
+
+message:
+  left-combat: "&7You are no longer in combat!"
+  reload_message: "&aThe plugin has been successfully reloaded!"
+
+
+
+blocked-commands: # while in combat
+  - "tpa"
+  - "tpahere"
+  - "spawn"
+
+blocked-message: "&cYou cannot use {command} while in combat!"
